@@ -1,0 +1,21 @@
+# Artefacts de build .NET
+bin/
+obj/
+
+# Fichiers d'environnement
+.env
+
+# Base de données locale
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Divers
+*.log
